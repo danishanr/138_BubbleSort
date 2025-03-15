@@ -74,5 +74,6 @@ void displayData()
 
 int main()
 {
+    inputData;
 
 }
