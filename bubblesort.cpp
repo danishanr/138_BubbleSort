@@ -76,6 +76,7 @@ int main()
 {
     inputData();
     bubbleSort();
+    displayData;
 
 
 }
